@@ -2,8 +2,9 @@
   background-color:white;
 }
 .navbar{
-  background-color:#34495e;
-
+  background-color:hsl(210, 29%, 29%);
+  border-radius: 0px;
+  border: none;
 }
 #nav ul li a{
   font-size: 18px;
@@ -20,7 +21,15 @@
   color: white;
   padding: 10px;
   border: 0;
-
+  opacity: 70%;
+}
+.dropdown-menu a{
+  text-decoration: none;
+  color:#e0e0e0;
+}
+.dropdown-menu a:hover{
+  text-decoration: none;
+  color:white;
 }
 #nav {
   width: 100%;
@@ -39,9 +48,15 @@
   width: auto;
   margin-top: -20px;
 }
-header#main_header {
+.custom-menu-link{
+  color: white;
+}
+
+#main_header {
   background:#ee7335 ;
-  height: 60px;
+  border: none;
+  border-radius: 0px;
+  height: 80px;
 }
 .navbar-brand>img {
   display: block;
