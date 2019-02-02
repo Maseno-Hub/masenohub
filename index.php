@@ -379,21 +379,21 @@
         <div class="wow zoomIn col-xs-12 text-center p-padding">
           <h1 class="section-title">get in touch</h1>
           <p>Contact us today</p>
-        </div><!-- col-xs-12 -->
-        <div class="wow zoomIn col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
-          <form name="contactForm" id='contact_form' method="post" action='php/email.php' readonly>
+         </div><!-- col-xs-12 -->
+           <div class="wow zoomIn col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
+           <form name="contactForm" id='contact_form' method="post" action='php/email.php' >
             <div class="form-inline">
               <div class="form-group col-sm-6">
-                <input type="text" class="form-control" name="name" id="exampleInputName" placeholder="name" readonly>
+                <input type="text" class="form-control" name="name" id="exampleInputName" placeholder="name">
               </div>
               <div class="form-group col-sm-6">
-                <input type="email" class="form-control" name="email" id="exampleInputEmail" placeholder="email address" readonly>
+                <input type="email" class="form-control" name="email" id="exampleInputEmail" placeholder="email address" >
               </div>
               <div class="form-group col-sm-6">
-                <input type="text" class="form-control" name="subject" id="exampleInputSubject" placeholder="subject" readonly >
+                <input type="text" class="form-control" name="subject" id="exampleInputSubject" placeholder="subject"  >
               </div>
               <div class="form-group col-sm-6">
-                <input type="text" class="form-control" name="company" id="exampleInputCompany" placeholder="company" readonly >
+                <input type="text" class="form-control" name="company" id="exampleInputCompany" placeholder="company"  >
               </div>
               <div class="form-group col-sm-12">
                 <textarea class="form-control" name="message" rows="3" id="exampleInputMessage" placeholder="message" ></textarea>

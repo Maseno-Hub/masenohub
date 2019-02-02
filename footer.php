@@ -42,7 +42,7 @@
       <div class="container">
         <div class="row">
           <div class="wow zoomIn col-xs-12">
-            <p>© 2019 All rights reserved. <span>Maseno ICT club</span> theme by maseno ict core devs</p>
+            <p>© <?php echo date("Y")?>  All rights reserved. <span>Maseno Hub</span> theme by maseno hub core devs</p>
             <div class="backtop  pull-right">
               <i class="fa fa-angle-up back-to-top"></i>
             </div><!-- /.backtop -->
