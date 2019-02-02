@@ -67,11 +67,11 @@
             <li> <a class="page-scroll" href="team.php">team</a></li>
             <li class="dropdown"> <a class="page-scroll drop dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" href="#blog">blog</a>
               <ul class="dropdown-menu" role="menu">
-                <!-- <li><a href="blog-full-width.php">full-width Blog</a></li> -->
+                <li><a href="blog-full-width.php">full-width Blog</a></li>
                 <li><a href="blog-sidebar.php">sidebar blog</a></li>
               </ul>
             </li>
-          <li><a class="page-scroll" href="index.php #contact">Contact</a></li>
+          <li><a class="page-scroll" href="#contact">Contact</a></li>
           <li><a class="page-scroll" href="blog-sidebar.php">forum</a></li>
            <!-- Search Block -->
           <li>
