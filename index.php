@@ -381,19 +381,19 @@
           <p>Contact us today</p>
         </div><!-- col-xs-12 -->
         <div class="wow zoomIn col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
-          <form name="contactForm" id='contact_form' method="post" action='php/email.php'>
+          <form name="contactForm" id='contact_form' method="post" action='php/email.php' readonly>
             <div class="form-inline">
               <div class="form-group col-sm-6">
-                <input type="text" class="form-control" name="name" id="exampleInputName" placeholder="name" >
+                <input type="text" class="form-control" name="name" id="exampleInputName" placeholder="name" readonly>
               </div>
               <div class="form-group col-sm-6">
-                <input type="email" class="form-control" name="email" id="exampleInputEmail" placeholder="email address">
+                <input type="email" class="form-control" name="email" id="exampleInputEmail" placeholder="email address" readonly>
               </div>
               <div class="form-group col-sm-6">
-                <input type="text" class="form-control" name="subject" id="exampleInputSubject" placeholder="subject" >
+                <input type="text" class="form-control" name="subject" id="exampleInputSubject" placeholder="subject" readonly >
               </div>
               <div class="form-group col-sm-6">
-                <input type="text" class="form-control" name="company" id="exampleInputCompany" placeholder="company" >
+                <input type="text" class="form-control" name="company" id="exampleInputCompany" placeholder="company" readonly >
               </div>
               <div class="form-group col-sm-12">
                 <textarea class="form-control" name="message" rows="3" id="exampleInputMessage" placeholder="message" ></textarea>
@@ -418,12 +418,12 @@
             <span>find us on</span>
           </div><!-- /.icon-text -->
           <div class="icon-holder">
-            <ul >
-              <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+            <ul>              
+              <li ><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>           
               <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#" target="_blank"><i class="fa fa-behance"></i></a></li>
-              <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-map-marker"></i></a></li>   
+              <li><a href="#" target="_blank"><i class="fa fa-github"></i></a></li>              
+
             </ul>
           </div><!-- /.icon-holder -->
         </div><!-- /.col-xs-12 -->
