@@ -15,7 +15,7 @@ if (@mail($to, $subject, $message, $headers))
 {
 	// Transfer the value 'sent' to ajax function for showing success message.
 	echo 'sent';
-	// header('Location: ../index.html');
+	// header('Location: ../index.php');
 }
 else
 {

@@ -68,7 +68,7 @@
               <span class="icon-bar"></span>
             </button>
           </a>
-          <a class="navbar-brand" href="index.html"><img src="img/logol.png" alt="MASENO ICT"></a>
+          <a class="navbar-brand" href="index.php"><img src="img/logol.png" alt="MASENO ICT"></a>
         </div>
         <!-- When edditing any content in the navigation. please edit this file   -->
         <?php include 'navigation.php'; ?>

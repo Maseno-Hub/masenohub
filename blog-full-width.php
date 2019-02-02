@@ -70,22 +70,22 @@
                   <span class="icon-bar"></span>
                 </button>
               </a>
-              <a class="wow zoomIn navbar-brand" href="index.html"><img src="img/logo.png" alt="TechGut"></a>
+              <a class="wow zoomIn navbar-brand" href="index.php"><img src="img/logo.png" alt="TechGut"></a>
             </div>
             <div id="navbar" class="navbar-collapse collapse pull-right hidden-xs">
               <ul class="nav navbar-nav navbar-right">
-                <li ><a class="page-scroll" href="index.html">Home</a></li>
-                <li> <a class="page-scroll" href="index.html">about us</a></li>
-                <li> <a class="page-scroll" href="index.html">services</a></li>
-                <li> <a class="page-scroll" href="index.html">product</a></li>
-                <li> <a class="page-scroll" href="index.html">team</a></li>
-                <li class="dropdown"> <a class="page-scroll drop dropdown-toggle" ata-toggle="dropdown" role="button" aria-expanded="false" href="index.html">blog</a>
+                <li ><a class="page-scroll" href="index.php">Home</a></li>
+                <li> <a class="page-scroll" href="index.php">about us</a></li>
+                <li> <a class="page-scroll" href="index.php">services</a></li>
+                <li> <a class="page-scroll" href="index.php">product</a></li>
+                <li> <a class="page-scroll" href="index.php">team</a></li>
+                <li class="dropdown"> <a class="page-scroll drop dropdown-toggle" ata-toggle="dropdown" role="button" aria-expanded="false" href="index.php">blog</a>
                   <ul class="dropdown-menu" role="menu">
                     <li><a href="#">full-width Blog</a></li>
                     <li><a href="blog-sidebar.html">sidebar blog</a></li>
                   </ul>
                 </li>
-                <li><a class="page-scroll" href="index.html">Contact</a></li>
+                <li><a class="page-scroll" href="index.php">Contact</a></li>
                 <!-- Search Block -->
                 <li>
                   <i class="search fa fa-search search-btn"></i>
@@ -227,17 +227,17 @@
         <div class="container">
           <div class="row">
             <div class="wow zoomIn col-xs-12 col-sm-6 col-md-3">
-              <a href="index.html"><img src="img/footer-logo.png" alt="TechGut"></a>
+              <a href="index.php"><img src="img/footer-logo.png" alt="TechGut"></a>
               <p class="footer-content">Lorem ipsum dolor sit amet, consect tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven.</p>
             </div><!-- /.col-xs-12 .col-sm-3 .col-md-3 -->
             <div class="wow zoomIn col-xs-12 col-sm-3 col-md-3">
               <p class="footer-heading">link</p>
               <ul class="footermenu">
-                <li><a href="index.html">about us</a></li>
-                <li><a href="index.html">services</a></li>
-                <li><a href="index.html">product</a></li>
-                <li><a href="index.html">team</a></li>
-                <li><a href="index.html">blog</a></li>
+                <li><a href="index.php">about us</a></li>
+                <li><a href="index.php">services</a></li>
+                <li><a href="index.php">product</a></li>
+                <li><a href="index.php">team</a></li>
+                <li><a href="index.php">blog</a></li>
               </ul>
             </div><!-- /.col-xs-12 .col-sm-3 .col-md-3 -->
             <div class="wow zoomIn col-xs-12 col-sm-6 col-md-3">
@@ -278,18 +278,18 @@
     <!-- MMENU  -->
     <nav id="menu">
       <ul>
-        <li><a href="index.html">home</a></li>
-        <li><a href="index.html">about us</a></li>
-        <li><a href="index.html">services</a></li>
-        <li><a href="index.html">product</a></li>
-        <li><a href="index.html">team</a></li>
-        <li><a href="index.html">blog</a>
+        <li><a href="index.php">home</a></li>
+        <li><a href="index.php">about us</a></li>
+        <li><a href="index.php">services</a></li>
+        <li><a href="index.php">product</a></li>
+        <li><a href="index.php">team</a></li>
+        <li><a href="index.php">blog</a>
           <ul>
             <li><a href="#">full width blog</a></li>
             <li><a href="blog-sidebar.html">sidebar blog</a></li>
           </ul>
         </li>
-        <li><a href="index.html">contact</a></li>
+        <li><a href="index.php">contact</a></li>
       </ul>
     </nav><!-- /#menu -->
 
