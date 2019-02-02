@@ -18,19 +18,7 @@
             data-endspeed="300"
             style="z-index: 5; max-width: auto; max-height: auto; font-size:63px;white-space: nowrap;color:#fff;"><h1>WELCOME TO</h1>
           </div>
-          <div class="tp-caption very_large_text lfb ltt skewfromrightshort fadeout tp-resizeme head-tag"
-          data-x="1090"
-          data-y="200" 
-          data-speed="1500"
-          data-start="5480"
-          data-easing="Power3.easeInOut"
-          data-splitin="chars"
-          data-splitout="none"
-          data-elementdelay="0.1"
-          data-endelementdelay="0.1"
-          data-endspeed="300"
-          style="z-index: 5; max-width: auto; max-height: auto; font-size:63px;white-space: nowrap;color:#f9844c;"><h1>MASENO</h1>
-        </div>
+        
 
         <!-- LAYERS -->
         <div class="tp-caption very_large_text lfb ltt skewfromrightshort fadeout tp-resizeme"
@@ -44,21 +32,9 @@
         data-elementdelay="0.1"
         data-endelementdelay="0.1"
         data-endspeed="300"
-        style="z-index: 5; max-width: auto; max-height: auto; font-size:63px;white-space: nowrap;color:#f9844c;"><h1>ICT</h1>
+        style="z-index: 5; max-width: auto; max-height: auto; font-size:63px;white-space: nowrap;color:#f9844c;"><h1>MASENO HUB</h1>
       </div>
-      <div class="tp-caption very_large_text lfb ltt skewfromrightshort fadeout tp-resizeme"
-      data-x="1024"
-      data-y="282" 
-      data-speed="1500"
-      data-start="6500"
-      data-easing="Power3.easeInOut"
-      data-splitin="chars"
-      data-splitout="none"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      data-endspeed="300"
-      style="z-index: 5; max-width: auto; max-height: auto; font-size:63px;white-space: nowrap;color:#fff;"><h1>CLUB</h1>
-    </div>
+      
 
 
 
@@ -194,7 +170,7 @@ style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
   data-splitout="chars"
   data-elementdelay="0.08"
   style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
-  <h1><span>Maseno ICT CLUB</span> IS OUR COMMUNITY</h1>
+  <h1><span>Maseno HUB</span> IS OUR COMMUNITY</h1>
 </div>
 
 <!-- LAYER NR. 2 -->
