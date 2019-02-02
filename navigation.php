@@ -71,7 +71,7 @@
                 <li><a href="blog-sidebar.php">sidebar blog</a></li>
               </ul>
             </li>
-          <li><a class="page-scroll" href="index.php #contact">Contact</a></li>
+          <li><a class="page-scroll" href="#contact">Contact</a></li>
           <li><a class="page-scroll" href="blog-sidebar.php">forum</a></li>
            <!-- Search Block -->
           <li>
