@@ -44,6 +44,7 @@
   <link rel="stylesheet" href="css/hover.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/custom.css">
   <!-- <script type="text/javascript">
     window.onload = function(){ alert("Hi there Please not that this site is under construction get in touch with me Abraham @ abramogol@gmail.com or 0790463533 or karimkanji101@gmail.com");}
   </script> -->
@@ -71,7 +72,8 @@
                 <span class="icon-bar"></span>
               </button>
             </a>
-            <a class="navbar-brand" href="index.php"><img src="img/logol.png" alt="Maseno ICT"></a>
+            <!-- <a class="navbar-brand" href="index.php"><img src="img/logol.png" alt="Maseno ICT"></a> -->
+            <a class="navbar-brand brand" href="index.php">MASENO HUB</a>
           </div>
           <!-- When edditing any content in the navigation. please edit this file   -->
           <?php include 'navigation.php'; ?>

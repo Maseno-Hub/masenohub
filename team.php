@@ -31,6 +31,7 @@
       <img src="img/teams/Angela.png" alt="Nduta" class="cloud9-item">
       <img src="img/teams/Claire.png" alt="CoderJaymoh" class="cloud9-item">
       <img src="img/teams/Claire.png" alt="Peterson" class="cloud9-item">
+      <img src="img/teams/Blake.png" alt="Peet" class="cloud9-item">
     </div>
 
     <p id="item-title">&nbsp;</p>

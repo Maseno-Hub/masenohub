@@ -44,6 +44,7 @@
   <link rel="stylesheet" href="css/hover.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/custom.css">
 
 <!--[if lt IE 9]>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -68,7 +69,8 @@
               <span class="icon-bar"></span>
             </button>
           </a>
-          <a class="navbar-brand" href="index.php"><img src="img/logol.png" alt="MASENO ICT"></a>
+          <!-- <a class="navbar-brand" href="index.php"><img src="img/logol.png" alt="MASENO ICT"></a> -->
+          <a class="navbar-brand brand" href="index.php">MASENO HUB</a>
         </div>
         <!-- When edditing any content in the navigation. please edit this file   -->
         <?php include 'navigation.php'; ?>
