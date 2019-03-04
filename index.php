@@ -77,7 +77,7 @@
             </button>
           </a>
           <!-- <a class="navbar-brand" href="index.php"><img src="img/logol.png" alt="Maseno ICT"></a> -->
-          <a class="navbar-brand" href="index.php">MASENO HUB</a>
+          <a class="navbar-brand brand" href="index.php">MASENO HUB</a>
         </div>
         <!-- When edditing any content in the navigation. please edit this file   -->
         <?php include 'navigation.php'; ?>

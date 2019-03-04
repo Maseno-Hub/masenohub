@@ -1,9 +1,9 @@
-a.navbar-brand{
+.brand{
     font-family: cursive;
     font-size: 24px !important;
     color: #f9844c !important;
 }
 
-a.navbar-brand:hover{
+.brand:hover{
     color: #212121 !important;
 }   
