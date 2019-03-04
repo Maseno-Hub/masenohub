@@ -421,10 +421,11 @@
           </div><!-- /.icon-text -->
           <div class="icon-holder">
             <ul>              
-              <li ><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>           
+              <li ><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>         
               <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#" target="_blank"><i class="fa fa-map-marker"></i></a></li>   
-              <li><a href="#" target="_blank"><i class="fa fa-github"></i></a></li>              
+              <li ><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>     
+              <li><a href="https://github.com/MasenoHub" target="_blank"><i class="fa fa-github"></i></a></li>      
+              <li><a href="#" target="_blank"><i class="fa fa-map-marker"></i></a></li>         
 
             </ul>
           </div><!-- /.icon-holder -->
