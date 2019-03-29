@@ -1,5 +1,5 @@
     <!-- slider -->
-      <div class="tp-banner-container">
+    <div class="tp-banner-container">
       <div class="tp-banner">
         <ul>  <!-- SLIDE  -->
           <li data-transition="fade" data-slotamount="25" data-masterspeed="2500"  data-thumb="img/slider/slider_img_01.jpg"  data-saveperformance="off">
@@ -7,7 +7,7 @@
             <img src="img/slider/slider_img_01.jpg"  alt="fullslide2" data-bgposition="center center" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center center">
             <div class="tp-caption very_large_text lfb ltt skewfromrightshort fadeout tp-resizeme head-tag"
             data-x="637"
-            data-y="200" 
+            data-y="200"
             data-speed="1500"
             data-start="4500"
             data-easing="Power3.easeInOut"
@@ -18,78 +18,78 @@
             data-endspeed="300"
             style="z-index: 5; max-width: auto; max-height: auto; font-size:63px;white-space: nowrap;color:#fff;"><h1>WELCOME TO</h1>
           </div>
-        
 
-        <!-- LAYERS -->
-        <div class="tp-caption very_large_text lfb ltt skewfromrightshort fadeout tp-resizeme"
-        data-x="637"
-        data-y="282" 
-        data-speed="1500"
-        data-start="5500"
-        data-easing="Power3.easeInOut"
-        data-splitin="chars"
-        data-splitout="none"
-        data-elementdelay="0.1"
-        data-endelementdelay="0.1"
-        data-endspeed="300"
-        style="z-index: 5; max-width: auto; max-height: auto; font-size:63px;white-space: nowrap;color:#f9844c;"><h1>MASENO HUB</h1>
+
+          <!-- LAYERS -->
+          <div class="tp-caption very_large_text lfb ltt skewfromrightshort fadeout tp-resizeme"
+          data-x="637"
+          data-y="282"
+          data-speed="1500"
+          data-start="5500"
+          data-easing="Power3.easeInOut"
+          data-splitin="chars"
+          data-splitout="none"
+          data-elementdelay="0.1"
+          data-endelementdelay="0.1"
+          data-endspeed="300"
+          style="z-index: 5; max-width: auto; max-height: auto; font-size:63px;white-space: nowrap;color:#f9844c;"><h1>MASENO HUB</h1>
+        </div>
+
+
+
+
+        <div class="tp-caption lft randomrotate customout"
+        data-x="left"
+        data-y="center" data-voffset="110"
+        data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+        data-speed="800"
+        data-start="2000"
+        data-easing="Back.easeOut"
+        data-endspeed="500"
+        data-endeasing="Power4.easeIn"
+        data-captionhidden="on"
+        style="z-index: 9"><img src="img/slider/mobile.png" alt="" data-ww="550" data-hh="490">
       </div>
-      
 
+      <div class="tp-caption lfl randomrotate tp-resizeme"
+      data-x="60"
+      data-y="bottom" data-voffset="-70"
+      data-speed="800"
+      data-start="3000"
+      data-easing="Back.easeOut"
+      data-endspeed="500"
+      data-endeasing="Power4.easeIn"
+      data-captionhidden="on"
+      style="z-index: 9"><img src="img/slider/html.png" alt="" data-ww="125" data-hh="160">
+    </div>
 
-
-    <div class="tp-caption lft randomrotate customout"
-    data-x="left"
-    data-y="center" data-voffset="110"
-    data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+    <div class="tp-caption randomrotate tp-resizeme"
+    data-x="210"
+    data-y="bottom" data-voffset="-70"
     data-speed="800"
-    data-start="2000"
+    data-start="4000"
     data-easing="Back.easeOut"
     data-endspeed="500"
     data-endeasing="Power4.easeIn"
     data-captionhidden="on"
-    style="z-index: 9"><img src="img/slider/mobile.png" alt="" data-ww="550" data-hh="490">
+    style="z-index: 9"><img src="img/slider/css.png" alt="" data-ww="125" data-hh="160">
   </div>
-
-  <div class="tp-caption lfl randomrotate tp-resizeme"
-  data-x="60" 
-  data-y="bottom" data-voffset="-70" 
+  <div class="tp-caption sfr randomrotate tp-resizeme"
+  data-x="360"
+  data-y="bottom" data-voffset="-70"
   data-speed="800"
-  data-start="3000"
+  data-start="5000"
   data-easing="Back.easeOut"
   data-endspeed="500"
   data-endeasing="Power4.easeIn"
   data-captionhidden="on"
-  style="z-index: 9"><img src="img/slider/html.png" alt="" data-ww="125" data-hh="160">
-</div>
-
-<div class="tp-caption randomrotate tp-resizeme"
-data-x="210"  
-data-y="bottom" data-voffset="-70" 
-data-speed="800"
-data-start="4000"
-data-easing="Back.easeOut"
-data-endspeed="500"
-data-endeasing="Power4.easeIn"
-data-captionhidden="on"
-style="z-index: 9"><img src="img/slider/css.png" alt="" data-ww="125" data-hh="160">
-</div>
-<div class="tp-caption sfr randomrotate tp-resizeme"
-data-x="360"
-data-y="bottom" data-voffset="-70" 
-data-speed="800"
-data-start="5000"
-data-easing="Back.easeOut"
-data-endspeed="500"
-data-endeasing="Power4.easeIn"
-data-captionhidden="on"
-style="z-index: 9"><img src="img/slider/js.png" alt="" data-ww="125" data-hh="160">
+  style="z-index: 9"><img src="img/slider/js.png" alt="" data-ww="125" data-hh="160">
 </div>
 
 <!-- LAYER NR. 2 -->
 <div class="tp-caption lfl tp-resizeme"
 data-x="637"
-data-y="365" 
+data-y="365"
 data-speed="1000"
 data-start="8000"
 data-easing="Power3.easeOut"
@@ -120,7 +120,7 @@ style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
 </div>
 <!-- LAYER NR. 4 -->
 <div class="tp-caption  lfl tp-resizeme"
-data-x="637" 
+data-x="637"
 data-y="475"
 data-speed="1000"
 data-start="9400"
@@ -138,7 +138,7 @@ style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
 <!-- LAYER NR. 5 -->
 <div class="tp-caption lfr tp-resizeme start-button"
 data-x="637"
-data-y="540" 
+data-y="540"
 data-speed="1000"
 data-start="10500"
 data-easing="Power3.easeOut"
@@ -162,7 +162,7 @@ style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
   <!-- LAYER NR. 1 -->
   <div class="tp-caption very_large_text lfb ltt tp-resizeme head-tag"
   data-x="left" data-hoffset="20"
-  data-y="center" data-voffset="-100" 
+  data-y="center" data-voffset="-100"
   data-speed="600"
   data-start="500"
   data-easing="Power3.easeInOut"
@@ -226,7 +226,7 @@ style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
 <!-- LAYER NR. 5 -->
 <div class="tp-caption lfr tp-resizeme"
 data-x="right" data-hoffset="100"
-data-y="bottom" data-voffset="-90" 
+data-y="bottom" data-voffset="-90"
 data-speed="3000"
 data-start="4000"
 data-easing="Power3.easeOut"
@@ -346,4 +346,4 @@ style="z-index: 3; max-width: 50px; max-height: 50px; white-space: nowrap;">
 </ul>
 </div>
 </div>
-    <!-- slider -->
+<!-- slider -->
