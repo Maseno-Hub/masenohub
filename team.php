@@ -1,4 +1,30 @@
-<?php include 'header.php';?>
+<?php 
+  include 'header.php';
+
+  class User
+  {
+    var $username;
+    var $avatar;
+  }
+  
+  $ch = curl_init();
+  curl_setopt($ch,CURLOPT_USERAGENT,'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13');
+  curl_setopt($ch, CURLOPT_URL, 'https://api.github.com/orgs/masenohub/public_members');
+  curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+  curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+  
+  $response = curl_exec($ch);
+  curl_close($ch);
+  $data = json_decode($respose, true);
+
+  $users = array();
+  foreach ($data as $i => $value) {
+    $user = new User();
+    $user->username = $value["login"];
+    $user->avatar = $value["avatar_url"];
+    $users[$i] = $user;
+  }
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,15 +49,9 @@
 <body>
   <div id="wrap">
     <div id="showcase">
-      <img src="img/teams/Alison.png" alt="Mike" class="cloud9-item">
-      <img src="img/teams/Adam.png" alt="Ken K" class="cloud9-item">
-      <img src="img/teams/Amy.png" alt="Emmanuel" class="cloud9-item">
-      <img src="img/teams/Blake.png" alt="Symons" class="cloud9-item">
-      <img src="img/teams/Angela.png" alt="Jaywezz" class="cloud9-item">
-      <img src="img/teams/Angela.png" alt="Nduta" class="cloud9-item">
-      <img src="img/teams/Claire.png" alt="CoderJaymoh" class="cloud9-item">
-      <img src="img/teams/Claire.png" alt="Peterson" class="cloud9-item">
-      <img src="img/teams/Blake.png" alt="Peet" class="cloud9-item">
+    <?php foreach ($users as $one): ?>
+      <img  src="<?= $one->avatar; ?>" alt="<?= $one->username; ?>" class="cloud9-item img-circle" style="width:250px;">
+    <?php endforeach; ?>
     </div>
 
     <p id="item-title">&nbsp;</p>
