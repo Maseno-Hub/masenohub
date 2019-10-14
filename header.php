@@ -46,11 +46,24 @@
   <link rel="stylesheet" href="css/responsive.css">
   <link rel="stylesheet" href="css/custom.css">
 
-<!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')
-</script>
-<![endif]-->
+  <!-- custom stylesheet -->
+  <link rel="stylesheet" href="css/main.css">
+
+  <!-- font-awesome icons -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Jquery CDN -->
+  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+
+  <!-- Plugin  -->
+  <script src="js/jquery.reflection.js"></script>
+  <script src="js/jquery.cloud9carousel.js"></script>
+
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')
+  </script>
+  <![endif]-->
 </head>
 <body>
 
