@@ -57,11 +57,11 @@
 <!-- MMENU -->
 <nav id="menu">
   <ul>
-    <li><a href="#">home</a></li>
-    <li><a href="#about">about us</a></li>
-    <li><a href="#services">services</a></li>
-    <li><a href="#product">product</a></li>
-    <li><a href="#team">team</a></li>
+    <li><a href="index.php">home</a></li>
+    <li><a href="index.php#about">about us</a></li>
+    <li><a href="projects.php">projects</a></li>
+    <li><a href="events.php">events</a></li>
+    <li><a href="team.php">team</a></li>
     <li><a href="#blog">blog</a>
       <ul>
         <li><a href="blog-full-width.php">full width blog</a></li>
