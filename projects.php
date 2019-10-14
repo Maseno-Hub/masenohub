@@ -72,7 +72,7 @@
               <img alt="img21" src="https://picsum.photos/id/100<?= $i; ?>/350/300">
               <figcaption>
                 <div class="socia ls">
-                  <a data-toggle="modal" data-target="#myModal1" href="#myModal1"><i class="fa fa-expand"></i></a>
+                  <a href="<?= $p->link; ?>" target="_blank"><i class="fa fa-expand"></i></a>
                   <a href=""><i class="fa fa-share animated"></i></a>
                 </div>
                 <div class="scoial-heading">
@@ -83,21 +83,6 @@
             </figure>
           </div><!-- /.portfolio -->
         </div><!-- /.portfolio-item -->
-        <!-- MODAL/POPUP -->
-        <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-header">
-                <button type="button" class=" btn btn-default pull-right" data-dismiss="modal">X</button>
-                <span class="modal-title" id="myModalLabel">Our recent work</span>
-              </div>
-              <div class="modal-body" >
-                <img src="img/portfolio01.jpg" alt="img21"/>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- MODAL/POPUP -->
         <?php endforeach; ?>
 
       </div> <!-- /grid -->
