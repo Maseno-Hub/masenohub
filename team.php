@@ -22,13 +22,13 @@
     $user = new User();
     $user->username = $value["login"];
     $user->avatar = $value["avatar_url"];
-    $users[$i] = $user;
+    array_push($users, $user);
   }
 ?>
   <div id="wrap">
     <div id="showcase">
-    <?php foreach ($users as $one): ?>
-      <img  src="<?= $one->avatar; ?>" alt="<?= $one->username; ?>" class="cloud9-item img-circle" style="width:250px;">
+    <?php foreach ($users as $u): ?>
+      <img  src="<?= $u->avatar; ?>" alt="<?= $u->username; ?>" class="cloud9-item img-circle" style="width:250px;">
     <?php endforeach; ?>
     </div>
 
