@@ -8,14 +8,14 @@
   }
   
   $ch = curl_init();
-  curl_setopt($ch,CURLOPT_USERAGENT,'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13');
+  curl_setopt($ch, CURLOPT_USERAGENT,'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13');
   curl_setopt($ch, CURLOPT_URL, 'https://api.github.com/orgs/masenohub/public_members');
   curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
   curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
   
   $response = curl_exec($ch);
   curl_close($ch);
-  $data = json_decode($respose, true);
+  $data = json_decode($response, true);
 
   $users = array();
   foreach ($data as $i => $value) {
@@ -25,28 +25,6 @@
     $users[$i] = $user;
   }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Maseno Hub Team</title>
-
-  <!-- custom stylesheet -->
-  <link rel="stylesheet" href="css/main.css">
-
-  <!-- font-awesome icons -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
-  <!-- Jquery CDN -->
-  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-
-  <!-- Plugin  -->
-  <script src="js/jquery.reflection.js"></script>
-  <script src="js/jquery.cloud9carousel.js"></script>
-</head>
-<body>
   <div id="wrap">
     <div id="showcase">
     <?php foreach ($users as $one): ?>
