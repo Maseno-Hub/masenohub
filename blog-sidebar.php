@@ -21,7 +21,7 @@
             <div class="sidebar-blog-content">
               <div class="row">
                 <div class="col-xs-12">
-                  <img class="img-responsive" src="img/blog-image.jpg" alt="blog-image"/>  
+                  <img class="img-responsive" src="https://picsum.photos/504/378" alt="blog-image"/>  
                 </div>
                 <div class="col-xs-2 col-sm-3 col-md-2">
                   <div class="blog-date">
@@ -149,7 +149,7 @@
             <div class="media"><!-- media -->
               <div class="media-left"><!-- media-left -->
                 <a href="#">
-                  <img class="media-object" src="img/thumb-01.jpg" alt="thumb-01">
+                  <img class="media-object" src="https://picsum.photos/121/81" alt="thumb-01">
                 </a>
               </div><!-- /.media-left -->
               <div class="media-body"><!-- media-body -->
@@ -162,7 +162,7 @@
             <div class="media"> <!-- media -->
               <div class="media-left">
                 <a href="#">
-                  <img class="media-object" src="img/thumb-02.jpg" alt="thumb-02">
+                  <img class="media-object" src="https://picsum.photos/127/84" alt="thumb-02">
                 </a>
               </div><!-- media-left -->
               <div class="media-body">
@@ -176,7 +176,7 @@
             <div class="media">
               <div class="media-left">
                 <a href="#">
-                  <img class="media-object" src="img/thumb-03.jpg" alt="thumb-03">
+                  <img class="media-object" src="https://picsum.photos/136/91" alt="thumb-03">
                 </a>
               </div><!-- media-left -->
               <div class="media-body">

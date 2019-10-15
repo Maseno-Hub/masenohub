@@ -123,7 +123,7 @@
       <div class="container"><!-- container -->
         <div class="row"> <!-- row -->
           <div class="wow zoomIn col-xs-12"> <!-- col-xs-12 -->
-            <img class="img-responsive" src="img/blog-image01.jpg" alt="blog-image01"/>  
+            <img class="img-responsive" src="https://picsum.photos/504/378" alt="blog-image01"/>  
           </div> <!-- /.col-xs-12-->
           <div class="wow zoomIn col-xs-2 col-sm-3 col-md-2"><!-- col-md-2 -->
             <div class="blog-date"><!-- blog-date -->

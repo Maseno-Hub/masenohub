@@ -47,7 +47,9 @@
   <link rel="stylesheet" href="css/custom.css">
 
   <!-- custom stylesheet -->
+  <?php if (basename($_SERVER['PHP_SELF']) == "team.php"): ?> 
   <link rel="stylesheet" href="css/main.css">
+  <?php endif; ?>
 
   <!-- font-awesome icons -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
