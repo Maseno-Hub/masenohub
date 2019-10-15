@@ -340,9 +340,9 @@
 <section  class="counting section-padding">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12 col-sm-12 col-md-4 text-center">
-        <span class="count1 counter">2125</span>
-        <p>project completed</p>
+      <div class="col-xs-12 col-sm-12 col-md-4 text-center">    
+        <span class="counter count1">2125</span>
+        <p>projects completed</p>
       </div> <!-- /.col-sm-3 -->
       <div class="col-xs-12 col-sm-12 col-md-4 text-center">
         <span class="counter count3">5065</span>
@@ -350,7 +350,7 @@
       </div><!-- /.col-sm-3 -->
       <div class="col-xs-12 col-sm-12 col-md-4 text-center">
         <span class="counter count4">2154</span>
-        <p>cup of cofee</p>
+        <p>cups of coffee</p>
       </div><!-- /.col-sm-3 -->
     </div> <!-- /.row -->
   </div><!-- /.container -->
