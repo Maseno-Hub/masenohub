@@ -1,0 +1,94 @@
+    div.timer {
+      display: inline-block;
+      line-height: 1;
+      padding: 15px;
+      font-size: 20px;
+    }
+    img{
+      widows: 352px;;
+      height:358px;
+    }
+
+    span {
+      display: block;
+      font-size: 16px;
+      color: gray;
+    }
+
+    #days {
+      font-size: 80px;
+      color: #db4844;
+    }
+
+    #hours {
+      font-size: 80px;
+      color: #f07c22;
+    }
+
+    #minutes {
+      font-size: 80px;
+      color: #f6da74;
+    }
+
+    #seconds {
+      font-size: 50px;
+      color: #abcd58;
+    }
+
+    #boxshadow img {
+      width: 100%;
+      border: 1px solid #8a4419;
+      border-style: inset;
+    }
+
+    #boxshadow::after {
+      content: '';
+      position: absolute;
+      z-index: -1;
+      /* hide shadow behind image */
+      -webkit-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+      box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+      width: 70%;
+      left: 15%;
+      /* one half of the remaining 30% */
+      height: 100px;
+      bottom: 0;
+    }
+
+    @media only screen and (max-width: 600px) {
+      div.timer {
+        padding: 10px;
+        font-size: 15px;
+      }
+      img{
+        width:250px;
+        height:250px;
+      }
+
+      span {
+        display: block;
+        font-size: 14px;
+        color: gray;
+      }
+
+      #days {
+        font-size: 30px;
+        color: #db4844;
+      }
+
+      #hours {
+        font-size: 30px;
+        color: #f07c22;
+      }
+
+      #minutes {
+        font-size: 30px;
+        color: #f6da74;
+      }
+
+      #seconds {
+        font-size: 10px;
+        color: #abcd58;
+      }
+    }
