@@ -76,7 +76,6 @@
               <span class="icon-bar"></span>
             </button>
           </a>
-          <!-- <a class="navbar-brand" href="index.php"><img src="img/logol.png" alt="Maseno ICT"></a> -->
           <a class="navbar-brand brand" href="index.php">MASENO HUB</a>
         </div>
         <!-- When edditing any content in the navigation. please edit this file   -->
@@ -94,7 +93,7 @@
       <div class="wow zoomIn col-xs-12 col-lg-12 text-center p-padding">
         <h1 class="section-title">who we are</h1>
         <p> We are a student developers community in Maseno university. Our main aim is to help all these students in Maseno
-        whom would wish to join in the tech society but don't know how to. </p>
+        whom would wish to join in the tech society but don't know how to.</p>
       </div><!-- col-xs-12 -->
       <div class="wow zoomIn col-xs-12 col-sm-6 col-md-3 text-center">
         <div class="icon-circle">
@@ -153,7 +152,7 @@
               </a>
             </div>
             <div class="media-body">
-              <h2>campus metups</h2>
+              <h2>campus meetups</h2>
               <h3>We hold our meetups every sunday from 2-4pm </h3>
             </div>
           </div>
@@ -165,7 +164,7 @@
             </div>
             <div class="media-body">
               <h2>Team work</h2>          
-              <h3>Learn the concepts of team work <br> and how to collaborate in aproject</h3>
+              <h3>Learn the concepts of team work <br> and how to collaborate in a project</h3>
             </div>
           </div>
           <div class="wow zoomIn media">
@@ -350,24 +349,6 @@
     </div> <!-- /.row -->
   </div><!-- /.container -->
 </section><!-- counting -->
-
-
-  <!-- our partner -->
-  <section class="partner-wrapper">
-    <div class="container">
-      <div class="row">
-        <div class="wow zoomIn col-sm-12">
-          <div class="owl-wrap">
-            <div id="owl-example" class="owl-carousel">
-              <div class="feature-image"><img class="img-responsive" src="img/podii.png" alt=""></div>
-              <div class="feature-image"><img class="img-responsive" src="img/maseno.png" alt=""></div>
-              <div class="feature-image"><img class="img-responsive" src="img/appslab.png" alt=""></div>
-            </div><!-- /.owl-carousel -->
-          </div><!-- /.owl-wrap -->
-        </div><!-- /.col-sm-12 -->
-      </div><!-- .row -->
-    </div><!-- .container -->
-  </section><!-- our partner -->
 
   <!-- GET IN TOUCH -->
   <section id="contact" class="contact-wrapper section-padding">

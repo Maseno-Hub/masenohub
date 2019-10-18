@@ -4,7 +4,6 @@
       <div class="container">
         <div class="row">
           <div class="wow zoomIn col-xs-12 col-sm-6 col-md-3">
-            <!-- <a href="index.php"><img src="img/logol.png" alt="Maseno ICT"></a> -->
             <a class="brand" href="index.php">MASENO HUB</a>
             <p class="footer-content">We are a group of tech enthusiasts based in Maseno University.</p>
           </div><!-- /.col-xs-12 .col-sm-3 .col-md-3 -->
@@ -75,14 +74,14 @@
 </div><!-- /.main -->
 
 
- <!-- Join Maseno ICT Modal -->
+ <!-- Join Maseno HUB Modal -->
   <div class="modal fade" id="JoinModal" role="dialog">
     <div class="modal-dialog">
 
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
-          <h4 class="modal-title">Join Maseno ICT</h4>
+          <h4 class="modal-title">Join Maseno HUB</h4>
         </div>
         <div class="modal-body">
         <form method="post" action="" onsubmit="return validateForm()" name="joinForm">
