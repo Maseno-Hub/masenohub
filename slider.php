@@ -132,7 +132,7 @@ data-endelementdelay="0.1"
 data-endspeed="500"
 data-endeasing="Power4.easeIn"
 style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
-<h2 class="small-title second-title">We are inspired by our codes and History</h2>
+<h2 class="small-title second-title">We are inspired by our History</h2>
 </div>
 
 <!-- LAYER NR. 5 -->
@@ -170,7 +170,7 @@ style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
   data-splitout="chars"
   data-elementdelay="0.08"
   style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
-  <h1><span>Maseno HUB</span> IS OUR COMMUNITY</h1>
+  <h1><span>MASENO HUB</span> IS OUR COMMUNITY</h1>
 </div>
 
 <!-- LAYER NR. 2 -->
@@ -275,7 +275,7 @@ data-elementdelay="0.1"
 data-endelementdelay="0.1"
 data-endspeed="300"
 style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">
-<p>Something here</p>
+<p>Campus tech tours</p>
 </div>
 
 <!-- LAYER NR. 3 -->
@@ -291,7 +291,7 @@ data-elementdelay="0.1"
 data-endelementdelay="0.1"
 data-endspeed="300"
 style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">
-<p>Something here</p>
+<p>Annual meetup</p>
 </div>
 
 <!-- LAYER NR. 4 -->
