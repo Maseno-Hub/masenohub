@@ -41,7 +41,7 @@
         <div class="wow zoomIn col-xs-12 text-center p-padding animated" style="visibility: visible; animation-name: zoomIn;">
           <h1 class="section-title">our latest work</h1>
           <p>
-            At Maseno ICT, we are always on the move, always on the code. We strive to build better applications each time we meet and brainstorm. Here are some of the projects
+            At Maseno HUB, we are always on the move, always on the code. We strive to build better applications each time we meet and brainstorm. Here are some of the projects
             that have been completed by various ICT teams over the years.
           </p>
         </div>

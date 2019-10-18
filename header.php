@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>MASENO ICT</title>
+  <title>MASENO HUB</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
@@ -84,8 +84,7 @@
               <span class="icon-bar"></span>
             </button>
           </a>
-          <!-- <a class="navbar-brand" href="index.php"><img src="img/logol.png" alt="MASENO ICT"></a> -->
-          <a class="navbar-brand brand" href="index.php">MASENO HUB</a>
+         <a class="navbar-brand brand" href="index.php">MASENO HUB</a>
         </div>
         <!-- When edditing any content in the navigation. please edit this file   -->
         <?php include 'navigation.php'; ?>
