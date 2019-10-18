@@ -93,15 +93,16 @@
     <div class="row">
       <div class="wow zoomIn col-xs-12 col-lg-12 text-center p-padding">
         <h1 class="section-title">who we are</h1>
-        <p>Something here Something here Something here Something here Something here Something here Something here Something here Something here Something here Something here Something here </p>
+        <p> We are a student developers community in Maseno university. Our main aim is to help all these students in Maseno
+        whom would wish to join in the tech society but don't know how to. </p>
       </div><!-- col-xs-12 -->
       <div class="wow zoomIn col-xs-12 col-sm-6 col-md-3 text-center">
         <div class="icon-circle">
           <i class="fa flaticon-android2"></i>
         </div><!-- /.icon-circle -->
         <div class="who-we-are-content text-center">
-          <h2>simple design</h2>
-          <p>Something here Something here Something here Something here Something here Something here Something here Something </p>
+          <h2>simple ui design</h2>
+          <p>Come up with simple ui design that is able to achieve all that you had wished to achieve. </p>
         </div><!-- /.who-we-are-content -->
       </div><!-- /.col-xs-6 -->
       <div class="wow zoomIn col-xs-12 col-sm-6 col-md-3 text-center">
@@ -110,7 +111,7 @@
         </div><!-- /.icon-circle -->
         <div class="who-we-are-content text-center">
           <h2>perfect for all</h2>
-          <p>Something here Something here Something here Something here Something here Something here Something here Something </p>
+          <p>Create an impressive and a perfect design that will impress everyone who comes across it. </p>
         </div><!-- /.who-we-are-content -->
       </div><!-- /.col-xs-6 -->
       <div class="wow zoomIn col-xs-12 col-sm-6 col-md-3 text-center">
@@ -119,7 +120,7 @@
         </div><!-- /.icon-circle -->
         <div class="who-we-are-content text-center">
           <h2>easy to customize</h2>
-          <p>Something here Something here Something here Something here Something here Something here Something here Something </p>
+          <p>Write a code that is easily manageable and its easy to customize when ne </p>
         </div><!-- /.who-we-are-content -->
       </div><!-- /.col-xs-6 -->
       <div class="wow zoomIn col-xs-12 col-sm-6 col-md-3 text-center">
@@ -127,8 +128,8 @@
           <i class="fa fa-code"></i>
         </div><!-- /.icon-circle -->
         <div class="who-we-are-content text-center">
-          <h2>beautifully crafted</h2>
-          <p>Something here Something here Something here Something here Something here Something here Something here Something </p>
+          <h2>team work</h2>
+          <p> Be a team player.Play by team rules and guidelines to maximize efficiency in your projects.</p>
         </div><!-- /.who-we-are-content -->
       </div><!-- /.col-xs-6 -->
     </div><!--/row-->
@@ -141,7 +142,7 @@
     <div class="row">
       <div class="wow zoomIn col-xs-12 text-center p-padding">
         <h1 class="section-title">What we do</h1>
-        <p>Something here Something here Something here Something here Something here Something here Something here Something. Something here Something here Something here Something here Something here Something here Something here Something</p>
+        <p>We are bridging the tech gap in Maseno by teaching and coaching other students with the zeal to learn and blend the tech society. </p>
       </div><!-- col-xs-12 -->
       <div class="col-xs-12 col-sm-5 col-md-5">
         <div class="left-column">
@@ -153,20 +154,18 @@
             </div>
             <div class="media-body">
               <h2>campus metups</h2>
-              <h3>Vero eos et accusamus et </h3>
-              <span>iusto odio</span>
+              <h3>We hold our meetups every sunday from 2-4pm </h3>
             </div>
           </div>
           <div class="wow zoomIn media">
-            <div class="media-left media-middle">
+          <div class="media-left media-middle">
               <a href="#">
-                <i class="fa fa-database"></i>
+              <i class="fa fa-users"></i>
               </a>
             </div>
             <div class="media-body">
-              <h2>code unthinkable</h2>
-              <h3>Vero eos et accusamus et </h3>
-              <span>iusto odio</span>
+              <h2>Team work</h2>          
+              <h3>Learn the concepts of team work <br> and how to collaborate in aproject</h3>
             </div>
           </div>
           <div class="wow zoomIn media">
@@ -176,9 +175,8 @@
               </a>
             </div>
             <div class="media-body">
-              <h2>website </h2>
-              <h3>Vero eos et accusamus et </h3>
-              <span>iusto odio</span>
+              <h2>Web Development </h2>
+              <h3>Learn web dev from scratch to professional level.</h3>
             </div>
           </div>
         </div>
@@ -200,20 +198,18 @@
             </div><!-- media left-->
             <div class="media-body">
               <h2>MOBILE APPLICATION</h2>
-              <h3>Vero eos et accusamus et </h3>
-              <span>iusto odio</span>
+              <h3>Get equipped with the necessary skills to <br> do android and ios app Development </h3>
             </div><!--/.media body-->
           </div><!-- /.media -->
           <div class="wow zoomIn media">
             <div class="media-left media-middle">
               <a href="#">
-                <i class="fa fa-rocket"></i>
+                <i class="fa fa-github"></i>
               </a>
             </div><!-- media left-->
             <div class="media-body">
-              <h2>DYNAMIC SYSTEMS</h2>
-              <h3>Vero eos et accusamus et </h3>
-              <span>iusto odio</span>
+              <h2>Version control</h2>
+              <h3>Learn how to track changes as you <br> code</h3>
             </div><!--/.media body-->
           </div><!-- /.media -->
           <div class="wow zoomIn media">
@@ -224,8 +220,7 @@
             </div><!-- media left-->
             <div class="media-body">
               <h2>24/7 HOURS SUPPORT</h2>
-              <h3>Vero eos et accusamus et </h3>
-              <span>iusto odio</span>
+              <h3>Always here for you incase you need our help and assistance </h3>
             </div><!--/.media body-->
           </div><!-- /.media -->
         </div><!-- /.right-column -->
@@ -341,15 +336,15 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-4 text-center">    
-        <span class="counter count1">2125</span>
+        <span class="counter count1">4</span>
         <p>projects completed</p>
       </div> <!-- /.col-sm-3 -->
       <div class="col-xs-12 col-sm-12 col-md-4 text-center">
-        <span class="counter count3">5065</span>
+        <span class="counter count3">1000</span>
         <p>tweets</p>
       </div><!-- /.col-sm-3 -->
       <div class="col-xs-12 col-sm-12 col-md-4 text-center">
-        <span class="counter count4">2154</span>
+        <span class="counter count4">15</span>
         <p>cups of coffee</p>
       </div><!-- /.col-sm-3 -->
     </div> <!-- /.row -->
@@ -364,9 +359,9 @@
         <div class="wow zoomIn col-sm-12">
           <div class="owl-wrap">
             <div id="owl-example" class="owl-carousel">
-              <div class="feature-image"><img class="img-responsive" src="img/partner1.jpg" alt=""></div>
-              <div class="feature-image"><img class="img-responsive" src="img/partner2.jpg" alt=""></div>
-              <div class="feature-image"><img class="img-responsive" src="img/partner3.jpg" alt=""></div>
+              <div class="feature-image"><img class="img-responsive" src="img/podii.png" alt=""></div>
+              <div class="feature-image"><img class="img-responsive" src="img/maseno.png" alt=""></div>
+              <div class="feature-image"><img class="img-responsive" src="img/appslab.png" alt=""></div>
             </div><!-- /.owl-carousel -->
           </div><!-- /.owl-wrap -->
         </div><!-- /.col-sm-12 -->
