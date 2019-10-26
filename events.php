@@ -129,7 +129,7 @@
             </span>
           </div>
           <div class="col-sm-8 pt-5">
-            <span class="badge badge-pill p-2 badge-success"><h4>Upcoming Event</h4></span>
+            <span class="badge badge-pill" id="spanProgress" style="padding:5px"><h3 id="progress"></h3></span>
             <h1>Event 1</h1><br>
             <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi libero
               minus nisi cumque excepturi labore minima saepe temporibus repudiandae et?
