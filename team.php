@@ -28,7 +28,9 @@
   <div id="wrap">
     <div id="showcase">
     <?php foreach ($users as $u): ?>
+    <a href="https://github.com/<?= $u->username; ?>">
       <img  src="<?= $u->avatar; ?>" alt="<?= $u->username; ?>" class="cloud9-item img-circle" style="width:250px;">
+      </a>
     <?php endforeach; ?>
     </div>
 
