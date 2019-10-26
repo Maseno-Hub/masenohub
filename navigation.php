@@ -1,6 +1,6 @@
         <div id="navbar" class="navbar-collapse collapse pull-right hidden-xs">
           <ul class="nav navbar-nav navbar-right">
-            <li ><a class="page-scroll" href="index.php">Home</a></li>
+            <li ><a class="page-scroll" href="./">Home</a></li>
             <li> <a class="page-scroll" href="index.php#about">about us</a></li>
             <li> <a class="page-scroll" href="projects.php">projects</a></li>
             <li> <a class="page-scroll" href="events.php">events</a></li>
