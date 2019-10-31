@@ -243,18 +243,18 @@
     </div><!-- row-->
   </div><!-- container -->
 </section><!-- /clean idea and unique design -->
-    
+    <!-- invitation -->
 <div class="more-area">
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h2 class="pull-left">Want To Work With Us Then Feel Free To join us</h2>
+        <h2 class="pull-left">Want To join our club, Feel Free To do so</h2>
         <button type="button" id="load" class="btn btn-success pull-right" data-toggle="modal" data-target="#JoinModal">Click here</button>
       </div>
     </div><!-- row -->
   </div><!-- container -->
 </div><!-- /.more-area -->
-
+   <!-- invitation -->
 <!-- OUR TEAM -->
 <!-- <section id="team" class="our-team section-padding">
   <div class="container">
