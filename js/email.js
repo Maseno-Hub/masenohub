@@ -48,7 +48,8 @@
                          $('#send_message').attr({'enabled' : 'enable', 'value' : 'send' });
                         //Display the success message
                         $('#mail_success').fadeIn(500);
-                    }else{
+                        $('#contact_form').css('display','none');
+                                        }else{
                         //Display the error message
                         $('#mail_fail').fadeIn(500);
                         // Enable the submit button again

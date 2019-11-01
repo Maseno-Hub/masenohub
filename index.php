@@ -356,7 +356,7 @@
       <div class="row">
         <div class="wow zoomIn col-xs-12 text-center p-padding">
           <h1 class="section-title">get in touch</h1>
-          <p>Contact us today</p>
+          <p>Contact us today </p>
          </div><!-- col-xs-12 -->
            <div class="wow zoomIn col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
            <form name="contactForm" id='contact_form' method="post" action='php/email.php' >
@@ -377,16 +377,22 @@
                 <textarea class="form-control" name="message" rows="3" id="exampleInputMessage" placeholder="message" ></textarea>
               </div>
             </div>
-            <div class="form-group col-xs-12">
-              <div id='mail_success' class='success' style="display:none;">Your message has been sent successfully.
+            
+            <div class="form-group col-sm-12" id='submit'>
+              <input type="submit" id='send_message' class="btn  btn-lg costom-btn" name='contact_us' value="send">
+            </div>
+          </form>
+
+         <!-- message to show on submission of message -->
+          <div class="form-group col-xs-12">
+              <div id='mail_success' class='success' style="display:none;"> Your message has been sent successfully.
               </div><!-- success message -->
               <div id='mail_fail' class='error' style="display:none;"> Sorry, error occured this time sending your message.
               </div><!-- error message -->
             </div>
-            <div class="form-group col-sm-12" id='submit'>
-              <input type="submit" id='send_message' class="btn  btn-lg costom-btn" value="send">
-            </div>
-          </form>
+         <!-- message to show on submission of message -->
+
+
         </div> <!-- /.col-xs-12 .col-sm-offset-2 .col-sm-8 -->
         <div class="col-xs-12">
           <div class="contact-or">
