@@ -1,4 +1,7 @@
 <?php
+//run this code on button click only
+
+if(isset($_POST['contact_us'])){
 session_cache_limiter( 'nocache' );
 $subject = $_REQUEST['subject']; // Subject of your email
 $to = "support@themerole.com";  //Recipient's E-mail
@@ -21,5 +24,7 @@ else
 {
 	// Transfer the value 'failed' to ajax function for showing error message.
 	echo 'failed';
+}
+
 }
 ?>
