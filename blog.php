@@ -1,4 +1,6 @@
- <!-- TESTIMONIAL-->
+<?php include 'header.php'; ?>
+
+<!-- TESTIMONIAL-->
 <section class="wow zoomIn testimmonial section-padding">
   <div class="container">
     <div class="row">
@@ -97,3 +99,5 @@
       </div><!-- container -->
     </div><!-- /.more-area -->
   </section><!-- blog content -->
+
+  <?php include 'footer.php'; ?>
