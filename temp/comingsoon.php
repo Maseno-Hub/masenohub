@@ -30,11 +30,10 @@ if (isset($_POST["mail"])) {
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<link rel="shortcut icon" type="image/png" href="img/favicon.jpg" />
-	<link rel="stylesheet" type="text/css" href="temp/vendor/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="temp/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="temp/fonts/iconic/css/material-design-iconic-font.min.css">
-	<link rel="stylesheet" type="text/css" href="temp/vendor/animate/animate.css">
-	<link rel="stylesheet" type="text/css" href="temp/vendor/select2/select2.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.11/css/select2.min.css" rel="stylesheet" />
 	<link rel="stylesheet" type="text/css" href="temp/css/util.css">
 	<link rel="stylesheet" type="text/css" href="temp/css/main.css">
 </head>
@@ -59,7 +58,7 @@ if (isset($_POST["mail"])) {
 
 			<div class="wrappic1">
 				<a href="javascript:back();">
-					<button class="btn btn-outline-secondary"><i class="pr-3 fa fa-arrow-left"></i>Go Back</button>
+					<button class="btn btn-outline-secondary"><i class="pr-2 zmdi zmdi-arrow-left"></i>Go Back</button>
 				</a>
 			</div>
 
@@ -83,20 +82,19 @@ if (isset($_POST["mail"])) {
 		</div>
 
 		<div class="wsize1 simpleslide100-parent respon2">
-			<!-- TODO Unsplash -->
 			<div class="simpleslide100">
-				<div class="simpleslide100-item bg-img1" style="background-image: url('temp/images/bg01.jpg');"></div>
-				<div class="simpleslide100-item bg-img1" style="background-image: url('temp/images/bg02.jpg');"></div>
-				<div class="simpleslide100-item bg-img1" style="background-image: url('temp/images/bg03.jpg');"></div>
+				<div class="simpleslide100-item bg-img1" style="background-image: url('https://picsum.photos/id/0/950/900.jpg');"></div>
+				<div class="simpleslide100-item bg-img1" style="background-image: url('https://picsum.photos/id/1019/950/900.jpg');"></div>
+				<div class="simpleslide100-item bg-img1" style="background-image: url('https://picsum.photos/id/1021/950/900.jpg');"></div>
 			</div>
 		</div>
 	</div>
 
-	<script src="temp/vendor/jquery/jquery-3.2.1.min.js"></script>
-	<script src="temp/vendor/bootstrap/js/popper.js"></script>
-	<script src="temp/vendor/bootstrap/js/bootstrap.min.js"></script>
-	<script src="temp/vendor/select2/select2.min.js"></script>
-	<script src="temp/vendor/tilt/tilt.jquery.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.11/js/select2.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tilt.js/1.2.1/tilt.jquery.min.js></script>
 	<script src="temp/js/main.js"></script>
 	<script>
 		function back() {
