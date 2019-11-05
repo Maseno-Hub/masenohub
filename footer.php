@@ -20,8 +20,8 @@
           <div class="wow zoomIn col-xs-12 col-sm-6 col-md-3">
             <p class="footer-heading">find us</p>
             <ul class="footercontact">
-              <li><i class="flaticon-mainpage"></i><span>address:</span> One TECHGUT loop, 54100</li>
-              <li><i class="flaticon-phone16"></i><span>phone:</span><a href="tel:88 02 8714612"> +88 02 8714612</a></li>
+              <li><i class="flaticon-mainpage"></i><span>address:</span>Maseno University, Off Kisumu-Busia Road, Maseno.</li>
+              <li><i class="flaticon-phone16"></i><span>phone:</span><a href="tel:+254 712 345 678"> +254 701 234 567</a></li>
               <li><i class="flaticon-email21"></i><span>e-mail:</span><a href="mailto:maseno.hub@gmail.com"> maseno.hub@gmail.com</a></li>
               <li><i class="flaticon-world91"></i><span>web:</span><a href="https://masenohub.co.ke"> https://masenohub.co.ke</a></li>
             </ul>
@@ -42,7 +42,7 @@
       <div class="container">
         <div class="row">
           <div class="wow zoomIn col-xs-12">
-            <p>© <?php echo date("Y")?>  All rights reserved. <span>Maseno Hub</span> theme by Maseno Hub core devs</p>
+            <p>© <?php echo date("Y")?>  All rights reserved. <span>Maseno Hub</span> Theme by Maseno Hub Core Devs</p>
             <div class="backtop  pull-right">
               <i class="fa fa-angle-up back-to-top"></i>
             </div><!-- /.backtop -->
